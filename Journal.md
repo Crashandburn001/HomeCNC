@@ -3,6 +3,8 @@
 ### YYYY-MM-DD | [Phase: e.g., Prototyping, Testing, Schematics]
 **Daily Goal:** 
 
+**Time Taken:**
+
 **What I Did:** 
 * Lock in
   
